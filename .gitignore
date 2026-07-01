@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+local_scripts/data/
+public/original/*.png
+public/ground_truth/*.png
+public/interpolated/*.png

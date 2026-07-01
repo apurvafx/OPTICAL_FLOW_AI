@@ -1,0 +1,11 @@
+boto3
+botocore
+xarray
+netCDF4
+numpy
+opencv-python
+scikit-image
+matplotlib
+torch
+torchvision
+pillow
